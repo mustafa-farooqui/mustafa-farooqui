@@ -30,20 +30,9 @@ Beyond technology, I'm deeply interested in **nutrition, fitness, and human phys
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafa-farooqui&show_icons=true&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafa-farooqui&layout=compact&hide_border=true)
 
 ---
 
 ## 📫 Reach Me
 
 📧 **mustafa.aiintellect@gmail.com**
-
----
-
-> *"Always curious—whether it's uncovering insights from data or understanding the science behind human health and performance."*
