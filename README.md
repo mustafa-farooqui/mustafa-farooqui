@@ -2,9 +2,9 @@
 
 I help businesses create smart, data-driven solutions.
 
-My interests lie in **Data Analytics, Business Intelligence, and Machine Learning**, and I’m steadily developing my analytical thinking and problem-solving abilities through real world data problems.
+My interests lie in **Data Analytics, Business Intelligence, and Machine Learning**, and I’m steadily developing my analytical thinking and problem-solving abilities through real-world data problems.
 
-Beyond technology, I’m deeply interested in **nutrition, fitness, and human physiology**. I enjoy learning how the human body works, the science behind nutrition, metabolism, exercise, and longevity. I believe that curiosity is essential for both data and human health.
+Beyond technology, I’m deeply interested in **nutrition, fitness, and human physiology**. I enjoy learning how the human body works, science behind nutrition, metabolism, exercise, and longevity. I believe that curiosity is essential for both data and human health.
 
 ---
 
@@ -29,4 +29,4 @@ Beyond technology, I’m deeply interested in **nutrition, fitness, and human ph
 
 ---
 
-⚡ **Fun fact: I don’t multitask, I focus.**
+⚡ **Fun fact: I aim to improve by 1% every day.**
