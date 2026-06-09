@@ -1,4 +1,3 @@
-```markdown
 # Hi 👋, I'm Mohammed Mustafa Farooqui
 
 I enjoy using data to answer meaningful questions, uncover patterns, and build solutions that support better decision-making.
@@ -48,4 +47,3 @@ Beyond technology, I'm deeply interested in **nutrition, fitness, and human phys
 ---
 
 > *"Always curious—whether it's uncovering insights from data or understanding the science behind human health and performance."*
-```
